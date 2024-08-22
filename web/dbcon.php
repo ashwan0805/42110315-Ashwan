@@ -1,5 +1,4 @@
 <?php
-include 'dbcon.php';
 
 $servername = "localhost";
 $username = "root";
